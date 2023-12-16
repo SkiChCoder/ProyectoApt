@@ -22,4 +22,5 @@ Todos los detalles se registran en la Base de datos.
 Temas pendientes: 
 
 En la vista restriccion el nombre y campaña se guarda el ID en vez de los datos ingresados.
+
 nota: en la interfaz de vue, se tuvo que eliminar la carpeta node_modules por temas de tamaño, para reestablecer la carpeta se debe de escribir en la terminal 'npm install'.
